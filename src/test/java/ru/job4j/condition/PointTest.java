@@ -39,7 +39,7 @@ public class PointTest {
     }
 
     @Test
-    public void distancewhen49to35then5() {
+    public void distancewhen49to35then5dot38() {
         double expected = 5.38;
         int x1 = 4;
         int x2 = 9;
