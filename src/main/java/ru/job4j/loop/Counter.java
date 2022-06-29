@@ -24,7 +24,7 @@ public class Counter {
         System.out.println(sum(-2, 9));
         System.out.println(sum(1, 1));
         System.out.println(sum(-10, 2));
-        System.out.println(sum(2, 15));
+        System.out.println(sum(1, 15));
         System.out.println(sum(6, 4));
 
         System.out.println(sumByEven(0, 10));
